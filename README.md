@@ -1,3 +1,8 @@
+![task5](https://github.com/user-attachments/assets/bf4cbb69-7a17-47b0-97ea-f34301cc71b4)
+![task4](https://github.com/user-attachments/assets/05c783c4-35aa-4dcf-b61b-b62384d87986)
+![task3](https://github.com/user-attachments/assets/34d188c8-1414-4086-b57a-0f3831cc6053)
+![task2](https://github.com/user-attachments/assets/dd0ce021-4433-4567-8488-b6f918e9813c)
+![task1](https://github.com/user-attachments/assets/176b73a7-a828-4f4c-9529-16cc2db0ca50)
 # nti_tasks
 
 A new Flutter project.
