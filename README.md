@@ -1,11 +1,14 @@
-<img src=https://github.com/user-attachments/assets/bf4cbb69-7a17-47b0-97ea-f34301cc71b4.jpg  width="500" height="500"/>
-<img src=https://github.com/user-attachments/assets/05c783c4-35aa-4dcf-b61b-b62384d87986.jpg  width="500" height="500"/>
-<img src=https://github.com/user-attachments/assets/34d188c8-1414-4086-b57a-0f3831cc6053.jpg  width="500" height="500"/>
-<img src=https://github.com/user-attachments/assets/dd0ce021-4433-4567-8488-b6f918e9813c.jpg  width="500" height="500"/>
-<img src=https://github.com/user-attachments/assets/176b73a7-a828-4f4c-9529-16cc2db0ca50.jpg  width="500" height="500"/>
-# nti_tasks
 
+# nti_tasks
 A new Flutter project.
+
+![task5](https://github.com/user-attachments/assets/9478811c-ab8e-43a1-a8f9-15248c42c12b)
+![task4](https://github.com/user-attachments/assets/1f027fc0-7ffd-4130-9c13-097bba137bbe)
+![task3](https://github.com/user-attachments/assets/fa5c43f0-de43-4d40-be10-6948c77e1f74)
+![task2](https://github.com/user-attachments/assets/602dcdfc-e69b-4502-9b26-f281cf329bee)
+![task1](https://github.com/user-attachments/assets/a2f10aae-c194-4ef7-a4d7-6c051c95ee37)
+
+
 
 ## Getting Started
 
